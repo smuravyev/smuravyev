@@ -14,6 +14,7 @@ I have more than 13 years of experience in hosting technical support, and I thin
 - jQuery
 - HTML
 - CSS
+- [Parser3](https://www.parser.ru)
 
 #### Technologies and software used in my technical support work
 
@@ -22,4 +23,4 @@ I have more than 13 years of experience in hosting technical support, and I thin
 - MySQL, PostgreSQL
 - Zabbix, Kibana
 - Midnight commander, eyes and hands to find and remove malicious code
-- telepathy 
+- telepathy 🔥
