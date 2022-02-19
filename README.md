@@ -1,5 +1,4 @@
-## Stanislav Muravyev
-### Web developer
+## About myself
 
 I have more than 13 years of experience in hosting technical support, and I think I know what the clients expect using the site, so I try to do my best to match their expectations, so I like to code the web interfaces and, well, I like it. 
 
