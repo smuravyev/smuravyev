@@ -24,5 +24,4 @@ Dreaming of the bug-free high-performance reliable and clear interfaces.
 - Midnight commander, eyes and hands to find and remove malicious code
 - telepathy 🔥
 
-Telegram: https://t.me/StanislavMuravyev \
-Instagram: https://www.instagram.com/mdscs/
+Telegram: https://t.me/StanislavMuravyev
